@@ -1,7 +1,7 @@
 # PES-Assignment-1
 Code for Assignment 1 for PES, ECEN-5813, Fall 2021 - Due Date >> 8/31/2021 @ 10:30 AM MDT
 
-I am new to commit in git(please bear for a while, I will learn it soon) but I have included all the files used in the project codes with some screenshoot to make it easier for tester. 
+I am new to commit in git(please bear for a while, I will learn it soon) but I have included all the files used in the project codes with some screenshoot .PNG file to make it easier for tester. 
 
 1) Using CodeLite IDE with GNU GCC compiler to run and test all the codes
 
